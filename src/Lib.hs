@@ -63,3 +63,5 @@ foldl operacion valorInicial (x:xs) = foldl operacion (operacion valorInicial x)
 -- Agrego un comentario
 
 siguiente unNumero = unNumero + 1
+
+doble = (*2)
