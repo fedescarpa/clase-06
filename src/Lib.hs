@@ -61,3 +61,5 @@ foldl operacion valorInicial []     = valorInicial
 foldl operacion valorInicial (x:xs) = foldl operacion (operacion valorInicial x) xs
 
 -- Agrego un comentario
+
+siguiente unNumero = unNumero + 1
