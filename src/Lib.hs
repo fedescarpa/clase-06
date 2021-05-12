@@ -59,3 +59,5 @@ foldr operacion valorInicial (x:xs) = operacion x (plegar operacion valorInicial
 foldl :: (a -> b -> a) -> a -> [b] -> a
 foldl operacion valorInicial []     = valorInicial
 foldl operacion valorInicial (x:xs) = foldl operacion (operacion valorInicial x) xs
+
+-- Agrego un comentario
