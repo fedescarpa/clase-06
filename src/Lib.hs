@@ -65,3 +65,10 @@ foldl operacion valorInicial (x:xs) = foldl operacion (operacion valorInicial x)
 siguiente unNumero = unNumero + 1
 
 doble = (*2)
+
+-- git init
+-- git clone
+-- git pull
+-- git commit
+-- git push
+-- git add -> "metete en la escena"
