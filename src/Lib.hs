@@ -72,5 +72,7 @@ doble = (*2)
 -- git commit -> Saco la foto de la escena
 -- git push   -> Subo los cambios al album remoto
 -- git add    -> "metete en la escena"
+-- git status -> Estado de la escena
+-- git log    -> Ver el estado del album
 
 -- Escribir otra cosa
