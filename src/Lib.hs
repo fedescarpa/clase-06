@@ -66,9 +66,9 @@ siguiente unNumero = unNumero + 1
 
 doble = (*2)
 
--- git init
--- git clone
--- git pull
--- git commit
--- git push
--- git add -> "metete en la escena"
+-- git init   -> creo un album nuevo
+-- git clone  -> me descargo el album por primera vez
+-- git pull   -> bajando los cambios del album remoto
+-- git commit -> Saco la foto de la escena
+-- git push   -> Subo los cambios al album remoto
+-- git add    -> "metete en la escena"
